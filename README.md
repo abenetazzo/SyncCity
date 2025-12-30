@@ -1,5 +1,5 @@
 <p align="center">
-<img style="width: 140px" src="./logo/logo.png">
+<img style="width: 140px" src="./docs/logo/logo.png">
 </p>
 <h1 align="center">Gruppo 7Last</h1>
 
