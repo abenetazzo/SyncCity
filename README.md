@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Gruppo 7Last</h1>
 
-<p align="center">Repository per la documentazione relativa al progetto del corso <br><em>Ingegneria del Software - 2023/2024</em></p>
+<p align="center">Progetto del corso <br><em>Ingegneria del Software - 2023/2024</em></p>
 
 <h2 align="center">Componenti del gruppo:</h2>
 
