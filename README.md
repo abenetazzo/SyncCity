@@ -23,3 +23,4 @@ Valerio Occhinegro | 2011069
 
 <h2 align="center">Contatti:</h2>
 <p align="center">Email: <a href="mailto:7last.swe@gmail.com"><em>7last.swe@gmail.com</em></a></p>
+<p align="center">Per maggiori informazioni su come avviare il progetto o altro guarda la <a target="_blank" href="https://github.com/abenetazzo/SyncCity/blob/main/RUNNING.md">guida all'avvio</a>.</p>
